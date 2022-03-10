@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available here.
 
-- 📫 How to reach me **aayanparvez7860@gmail.com**
+- 📫 How to reach me **ayanparvez7860@gmail.com**
 
 - 💬 Known JS FrameWork **react & angular**
 
