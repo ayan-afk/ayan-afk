@@ -15,7 +15,7 @@
 
 https://linktr.ee/ayanparvez
 
-
+<a href="https://app.daily.dev/ayan_parvez"><img src="https://api.daily.dev/devcards/a99b6f7774034f5982fdb1eda88fc5ff.png?r=tl9" width="400" alt="Ayan Parvez's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
