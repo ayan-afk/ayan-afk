@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Tenreck is growing more
 
-https://linktr.ee/ayanparvez
+https://linktr.ee/ayan_afk
 
 <a href="https://app.daily.dev/ayan_parvez"><img src="https://api.daily.dev/devcards/a99b6f7774034f5982fdb1eda88fc5ff.png?r=tl9" width="400" alt="Ayan Parvez's Dev Card"/></a>
 
