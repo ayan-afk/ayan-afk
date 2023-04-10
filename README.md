@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayan Parvez</h1>
 <h3 align="center">i am a Developer and a Student :)</h3>
 
-- 🌱 I’m currently learning **React Native, UnitTest of JS**
+- 🌱 I’m currently learning **Competitive Programming and trying to do better....**
 
 - 🔭 I’m currently working for [Tenreck.inc](https://tenreck.com/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayanparvez7860@gmail.com**
 
-- 💬 Known JS FrameWork **react & angular**
+- 💬 Known Languages with DSA **C++ & Java**
 
 - ⚡ Fun fact **Tenreck is growing more
 
